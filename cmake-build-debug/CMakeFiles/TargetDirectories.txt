@@ -1,0 +1,3 @@
+/Users/mznagy/ClinicManagmentSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mznagy/ClinicManagmentSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mznagy/ClinicManagmentSystem/cmake-build-debug/CMakeFiles/ClinicManagmentSystem.dir
